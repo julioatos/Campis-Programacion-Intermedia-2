@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Campis-Programacion-Intermedia-2", "Campis-Programacion-Intermedia-2\Campis-Programacion-Intermedia-2.csproj", "{873257B4-8693-4082-BC0D-A23A1F9D1E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873257B4-8693-4082-BC0D-A23A1F9D1E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873257B4-8693-4082-BC0D-A23A1F9D1E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873257B4-8693-4082-BC0D-A23A1F9D1E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873257B4-8693-4082-BC0D-A23A1F9D1E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B2E3F5-EF12-49BF-9AC4-D825A1095A6B}
+	EndGlobalSection
+EndGlobal
